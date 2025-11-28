@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">MARWLD-MD</h1>
+  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">MAWRLD-MD</h1>
 </p>
 
 <p align="center">
@@ -10,14 +10,14 @@
 
 <div align="center">
   <a href="https://github.com/Ridz-coder01/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ridz-coder01?color=00ffff&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/Ridz-coder01/MARWLD-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ridz-coder01/MARWLD-MD?color=00ffff&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
-  <a href="https://github.com/Ridz-coder01/MARWLD-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ridz-coder01/MARWLD-MD?color=00ffff&style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="https://github.com/Ridz-coder01/MARWLD-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Ridz-coder01/MARWLD-MD?style=for-the-badge&color=00ffaa&logo=docusign&logoColor=white"></a>
-  <a href="https://github.com/Ridz-coder01/MARWLD-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
+  <a href="https://github.com/Ridz-coder01/MAWRLD-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ridz-coder01/MAWRLD-MD?color=00ffff&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
+  <a href="https://github.com/Ridz-coder01/MAWRLD-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ridz-coder01/MAWRLD-MD?color=00ffff&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/Ridz-coder01/MAWRLD-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Ridz-coder01/MAWRLD-MD?style=for-the-badge&color=00ffaa&logo=docusign&logoColor=white"></a>
+  <a href="https://github.com/Ridz-coder01/MAWRLD-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MARWLD-MD&label=VISITORS&style=flat-square&color=00ffff" /> 
+  <img src="https://komarev.com/ghpvc/?username=MAWRLD-MD&label=VISITORS&style=flat-square&color=00ffff" /> 
 
 <!-- ✨ HOLOGRAPHIC ANIMATED HEADER -->
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -44,17 +44,17 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 
 ## 📡 DEPLOYMENT SITES
 
-<p align="center">Deploy your <strong>MARWLD-MD</strong> with one click on your favorite hosting platforms.</p>
+<p align="center">Deploy your <strong>MAWRLD-MD</strong> with one click on your favorite hosting platforms.</p>
 
 
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/ridz-coder01/MARWLD-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/ridz-coder01/MAWRLD-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
       <td><a href="https://talkdrove.com" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=ridz-coder01/MARWLD-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=ridz-coder01/MAWRLD-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
       <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
@@ -88,7 +88,7 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 </table>  
 
 ___
-## ✨ MARWLD-MD Features
+## ✨ MAWRLD-MD Features
 
 - 🤖 WhatsApp Multi-Device Support
 - 🔁 Anti-Delete (Text + Media)
@@ -123,7 +123,7 @@ ___
 ---
 
 <h2 align="center" style="color:#9D00FF; font-family:monospace; font-size:26px;">
-🧾 PROJECT STATS MARWLD-MD
+🧾 PROJECT STATS MAWRLD-MD
 </h2>
 
 <div align="center" style="margin-top: 12px; margin-bottom: 20px; background:#0b0b0b; padding: 25px; border-radius: 12px; border: 2px solid #9D00FF; box-shadow: 0 0 20px #9D00FF; width: 95%;">
