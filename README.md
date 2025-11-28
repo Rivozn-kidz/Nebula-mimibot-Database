@@ -28,14 +28,14 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 ```
 ---
 
-> **CURRENT BOT VERSION ➜ `2.0. ⚡`**
+> **CURRENT BOT VERSION ➜ `1.0.0 ⚡`**
 ---
 
-<a><img src='https://files.catbox.moe/rinv3g.jpg'/></a>
+<a><img src='https://files.catbox.moe/qwpimr.png'/></a>
 
 <!-- ⚡ TYPING EFFECT -->
 <p align="center">
-<a href="https://github.com/FAMOUS-DEV">
+<a href="https://github.com/Ridz-coder01">
 <img src="http://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&width=550&lines=🚀+Multi-Functional+WhatsApp+Bot;🎯+Next-Gen+Automation+For+WhatsApp;💎+By+Ridz+Coder" alt="Typing Animation">
 </a>
 </p>
